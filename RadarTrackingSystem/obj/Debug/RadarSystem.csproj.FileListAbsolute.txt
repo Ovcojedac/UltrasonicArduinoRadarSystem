@@ -1,0 +1,11 @@
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe.config
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.pdb
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.COMPortDialog.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.RadarDisplay.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Properties.Resources.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarSystem.csproj.GenerateResource.Cache
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.exe
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.pdb
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.AuthorBox.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarSystem.csprojResolveAssemblyReference.cache

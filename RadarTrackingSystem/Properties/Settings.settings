@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RadarTrackingSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="COM_Port_Name" Description="COM port name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM5</Value>
+    </Setting>
+    <Setting Name="PitanjeLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://en.wikipedia.org/wiki/COM_%28hardware_interface%29</Value>
+    </Setting>
+    <Setting Name="DialogResult" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ArduinoLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://arduino.cc/</Value>
+    </Setting>
+    <Setting Name="ETFRoboticsLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://robot.etf.rs</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

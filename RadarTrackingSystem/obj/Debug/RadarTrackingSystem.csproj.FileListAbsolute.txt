@@ -1,0 +1,28 @@
+c:\users\fakultet\documents\visual studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe.config
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.pdb
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Form1.resources
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Properties.Resources.resources
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csproj.GenerateResource.Cache
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.exe
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.pdb
+c:\Users\Fakultet\Documents\Visual Studio 2012\Projects\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe.config
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.exe
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.pdb
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.pdb
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Form1.resources
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Properties.Resources.resources
+C:\Users\Ovcojedac\Desktop\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csproj.GenerateResource.Cache
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe.config
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.exe
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.pdb
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.exe
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\bin\Debug\RadarTrackingSystem.pdb
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csprojResolveAssemblyReference.cache
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.Properties.Resources.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.csproj.GenerateResource.Cache
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.COMPortDialog.resources
+D:\Sedmi semestar\OS4SUR\Projekat\RadarSistem\RadarTrackingSystem\RadarTrackingSystem\obj\Debug\RadarTrackingSystem.RadarDisplay.resources
